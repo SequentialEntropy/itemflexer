@@ -1,6 +1,6 @@
 # Item Flexer
 
-A serverside mod for 1.19.
+A **Forge** serverside mod for **1.19.x**.
 
 Show off your item and count in the in-game chat using the `/flex` command.
 
