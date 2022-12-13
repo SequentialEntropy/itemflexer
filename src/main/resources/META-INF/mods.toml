@@ -1,0 +1,17 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="MIT"
+
+[[mods]]
+modId="itemflexer"
+version="${file.jarVersion}"
+ # A display name for the mod
+displayName="Item Flexer"
+
+logoFile="examplemod.png"
+credits="Item Flexer"
+authors="Skytec711"
+
+description='''
+1.19 Forge mod for flexing handheld items in the game chat.
+'''
